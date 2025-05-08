@@ -1,6 +1,6 @@
 # DeduplicateData
 
-For this challenge I used Python, Pandas Modules, because I think.
+For this challenge I used Python, Pandas Modules.
 
 I started by reading the data and drop a few columns:
  - page_url, not useful 
